@@ -53,7 +53,8 @@ export function getDisplayModelName(
 }
 
 export function getTriggerDisplayModelName(model: ModelEsque): string {
-  return getDisplayModelName(model, { preferShortName: true });
+  // Joke fork: model chip reads like "Claude and I"
+  return `${getDisplayModelName(model, { preferShortName: true })} and I`;
 }
 
 export function getTriggerDisplayModelLabel(model: ModelEsque): string {
