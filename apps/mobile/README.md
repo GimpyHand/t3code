@@ -1,7 +1,7 @@
-# T3 Code Mobile
+# And I Code Mobile
 
 > [!WARNING]
-> T3 Code Mobile is currently in development and is not distributed yet. If you want to try it out, you can build it from source.
+> And I Code Mobile is currently in development and is not distributed yet. If you want to try it out, you can build it from source.
 
 ## Quickstart
 
@@ -10,9 +10,9 @@
 
 This app has three variants:
 
-- `development`: Expo dev client, installable side-by-side as `T3 Code Dev`
-- `preview`: persistent internal preview build, installable side-by-side as `T3 Code Preview`
-- `production`: store/release build as `T3 Code`
+- `development`: Expo dev client, installable side-by-side as `And I Code Dev`
+- `preview`: persistent internal preview build, installable side-by-side as `And I Code Preview`
+- `production`: store/release build as `And I Code`
 
 Run commands from `apps/mobile`.
 
